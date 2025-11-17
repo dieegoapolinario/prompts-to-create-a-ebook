@@ -1,7 +1,7 @@
 # Projeto Ebook Gerado por I.A.s
  > ℹ️ **NOTE:** Desenvolvido durante o curso na plataforma da [DIO](https://dio.me)
 
-Projeto com o objetivo de gerar um podcast com as facilidades das ferramentas de IA. 
+Projeto com o objetivo de gerar um ebook com as facilidades das ferramentas de IA. 
 Todos os prompts seguem abaixo.
 
 ## 💻 Tecnologias utilizadas no projeto
